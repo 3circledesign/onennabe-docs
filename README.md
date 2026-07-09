@@ -1,2 +1,0 @@
-# onennabe-docs
-wiki guides
