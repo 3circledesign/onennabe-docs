@@ -64,8 +64,9 @@ After enabling in BIOS, confirm it is active:
 Before downloading any game from Steam, you must lock the game version in ONENNABE first:
 
 ```
-SUO > Tools > Game Auto Update > click Open > find the game
+SUO > Tools > Game Auto Update > click Open > Click Smart Apply
 ```
+<img width="1498" height="1179" alt="Steam_Unlock_ONENNABE_9Kdby9E2cH" src="https://github.com/user-attachments/assets/e33cc430-12a9-4605-bdf1-a98505864211" />
 
 !!! info "Default state"
     By default, games are in **Lock** mode.  
