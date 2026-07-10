@@ -51,6 +51,8 @@ That's it — your game is now patched and ready to play.
 !!! warning "onlinefix.me pop-up"
 When launching a game that has Online Patch applied, a browser pop-up from onlinefix.me may appear. Close it immediately — you do not need to do anything on that site. The game will still work normally after closing the pop-up.
 
+!!! note 
+If there is Epic Game page or Microsoft login page required and pop up upon launching the game after Online Patch, please login to enable online play. Skipping the login will disable online play.
 ---
 
 ## Summary
