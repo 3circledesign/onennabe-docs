@@ -26,7 +26,7 @@ Inside the Game Detail modal:
 Before downloading in Steam, lock the game version to prevent Steam from updating it to an incompatible version:
 
 ```
-SUO > Tools > Game Auto Update > click Open > find the game
+SUO > Tools > Game Auto Update > click Open > Smart Apply
 ```
 
 !!! info "Default state"
