@@ -8,8 +8,8 @@ theme:
   name: material
   palette:
     scheme: slate
-    primary: blue
-    accent: dark purple
+    primary: custom
+    accent: custom
   font:
     text: Roboto
     code: Roboto Mono
@@ -21,6 +21,9 @@ theme:
     - search.suggest
     - content.code.copy
 
+extra_css:
+  - stylesheets/steam-theme.css
+
 nav:
   - Home: index.md
   - Getting Started:
@@ -30,6 +33,7 @@ nav:
     - Unlocking Games & Library: unlocking-games-and-library.md
     - Bypass & Online Patch: bypass-and-online-patch.md
     - Denuvo Games: denuvo-games.md
+    - Cloud Redirect: cloudredirect.md
     - Hypervisor Games: hypervisor.md
   - Help:
     - Troubleshooting: troubleshooting.md
