@@ -29,6 +29,8 @@ nav:
   - Using ONENNABE:
     - Bypass & Online Patch: bypass-and-online-patch.md
     - Denuvo Games: denuvo-games.md
+    - Hypervisor Games: hypervisor.md
+    - Troubleshooting: troubleshooting.md
   - Help:
     - Troubleshooting: troubleshooting.md
 
