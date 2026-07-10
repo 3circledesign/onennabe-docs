@@ -47,8 +47,8 @@ SUO > Tools > Game Auto Update > click Open > Smart Apply
 !!! warning "Applies to Denuvo, Hypervisor, Online Patch & Bypass Games Only"
     Games that fall under **Denuvo**, **Hypervisor**, **Online Patch**, or **Bypass** categories are locked behind a **32-hour waiting period** after purchase before you can access and play them.
  
-    - The 32-hour lock starts from the moment your purchase is confirmed
-    - You will not be able to play these games until the 32 hours have passed
+    - The 32-hour lock starts from the moment CDKEY activation
+    - You will not be able to unlock these games until the 32 hours have passed
     - This is by design and cannot be bypassed or shortened
  
 !!! info "Regular games are not affected"
