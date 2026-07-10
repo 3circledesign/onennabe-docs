@@ -3,6 +3,7 @@
 This page covers how to unlock a game in ONENNABE and how to navigate the Library tab, including the right-click context menu.
 
 ---
+<img width="1042" height="671" alt="image" src="https://github.com/user-attachments/assets/19361498-03bb-4d1d-8f04-828f08621e38" />
 
 ## Unlocking a Game
 
@@ -41,6 +42,7 @@ SUO > Tools > Game Auto Update > click Open > Smart Apply
 3. Click **Install** and wait for it to fully download
 
 ---
+<img width="459" height="298" alt="Steam_Unlock_ONENNABE_6CfTkpFHTs" src="https://github.com/user-attachments/assets/27b6f039-cb49-48f8-bdfd-f724daf45470" />
 
 ## ⚠ 32-Hour Cooldown
 
