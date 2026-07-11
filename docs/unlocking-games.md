@@ -115,6 +115,7 @@ Click **Games ▾** to filter by game category:
 ---
 
 ### Features Filter
+<img width="642" height="356" alt="Steam_Unlock_ONENNABE_VuAyhpaYPj" src="https://github.com/user-attachments/assets/5750c6a7-c48f-498f-846e-e593b48ecf53" />
 
 Click **Features ▾** to filter by game type:
 
