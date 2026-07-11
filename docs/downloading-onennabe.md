@@ -39,15 +39,18 @@ Watch the video below for a full walkthrough of the download process:
 4. If Chrome shows a warning saying **"This file may be harmful"**:
 
 a. 1st Method
+
     - Click the **arrow (⌄)** next to the discard button
     - Click **Keep** or **Keep anyway**
 
 b. 2nd Method
+
     - On your Keyboard, press CTRL + J
     - It will open download page
     - Find the file
     - Click the three dots (⋮) next to it
     - Click “Keep” → then “Keep anyway”
+    
 5. Wait for the download to complete
 6. Open the downloaded installer
 
