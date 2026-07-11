@@ -25,9 +25,9 @@ Inside the Game Detail modal:
 
 ---
 
-## Step 3 — Lock the Game Version (Before Downloading)
+## Step 3 — Click Smart Apply in Game Auto Update (Before Downloading)
 
-Before downloading in Steam, lock the game version to prevent Steam from auto-updating it to an incompatible version:
+Before downloading in Steam, clicking Smart Apply is recommended to ensure game is either lock version or need an update:
 
 ```
 SUO > Tools > Game Auto Update > click Open > Smart Apply
@@ -38,7 +38,7 @@ SUO > Tools > Game Auto Update > click Open > Smart Apply
 !!! info "Default state"
     By default, games are already in **Lock** mode.  
     **Disable = Lock** | **Enable = Unlock**  
-    Always keep it on Lock (Disable) before downloading.
+    Always click Smart Apply before downloading.
 
 ---
 
