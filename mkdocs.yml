@@ -45,6 +45,7 @@ nav:
     - Hypervisor Games: hypervisor.md
   - Help, my game is not unlocking!!:
     - Troubleshooting: troubleshooting.md
+  - OpenSteamTool Errors: opensteamtool-errors.md
 
 markdown_extensions:
   - admonition
