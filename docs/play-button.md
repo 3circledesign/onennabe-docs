@@ -5,6 +5,7 @@ The **▶ PLAY** button in the Library tab is the main way to launch your games.
 ---
 
 ## How to Open the Play Menu
+<img width="1045" height="750" alt="chrome_XO5NAAm7GF" src="https://github.com/user-attachments/assets/b7e334d3-51c3-4293-9614-a360b58bc42a" />
 
 1. Go to the **Library** tab in ONENNABE
 2. Click a game in the left sidebar to open its detail panel
