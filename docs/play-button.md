@@ -5,6 +5,7 @@ The **▶ PLAY** button in the Library tab is the main way to launch your games.
 ---
 
 ## How to Open the Play Menu
+<img width="1045" height="750" alt="chrome_XO5NAAm7GF" src="https://github.com/user-attachments/assets/b7e334d3-51c3-4293-9614-a360b58bc42a" />
 
 1. Go to the **Library** tab in ONENNABE
 2. Click a game in the left sidebar to open its detail panel
@@ -16,6 +17,7 @@ The **▶ PLAY** button in the Library tab is the main way to launch your games.
 ## The 3 Play Options
 
 ### ▶ Play from Steam
+<img width="976" height="692" alt="Steam_Unlock_ONENNABE_ZhxI88ZuBK" src="https://github.com/user-attachments/assets/b2e919d3-eaac-4b94-939c-d4efe40eb3b4" />
 
 Launches the game directly through Steam — the same as clicking Play in Steam itself.
 
@@ -27,6 +29,7 @@ Launches the game directly through Steam — the same as clicking Play in Steam 
 ---
 
 ### 📁 Choose .exe or .bat
+<img width="1023" height="516" alt="Steam_Unlock_ONENNABE_2aazJyrpo1" src="https://github.com/user-attachments/assets/01fb2c3c-b661-46c4-b306-5ce44ab55470" />
 
 Opens a file picker so you can select the exact executable or batch file to launch.
 
@@ -50,6 +53,7 @@ Opens a file picker so you can select the exact executable or batch file to laun
 ---
 
 ### 🗑 Uninstall Game
+<img width="873" height="450" alt="Steam_Unlock_ONENNABE_gWLwENkKiQ" src="https://github.com/user-attachments/assets/fabd4fa7-577d-41dc-a491-8ebe58176453" />
 
 Opens Steam's native uninstall dialog for the game.
 
