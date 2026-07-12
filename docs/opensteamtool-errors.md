@@ -3,6 +3,7 @@
 If you see any of the following popups when launching ONENNABE or Steam, it means there is a version mismatch between **OpenSteamTool** and your current Steam installation.
 
 ---
+<img width="1253" height="514" alt="image" src="https://github.com/user-attachments/assets/62ce0375-f557-4575-a524-2e2624a48b3d" />
 
 ## The Errors
 
